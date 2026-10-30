@@ -1,4 +1,7 @@
+
 streamlit==1.32.2
 crewai==0.80.0
 pypdf==4.1.0
+setuptools==80.9.0
+
 
